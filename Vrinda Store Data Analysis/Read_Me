@@ -1,0 +1,35 @@
+Hello Everybody,
+I am thrilled to announce that I have tried my excel skills to make dashboard which brought meaningful insights.
+
+📌Objective 🎯: Provide Insights to Vrinda Store to increase the sales in order to increase profitability.
+
+📌Tool Used 🧰 :
+👉MS Excel-For cleaning, analyzing the data and for visualizations
+
+📌Learnings 📖: The Whole Process involved the following Steps
+👉 Get Vrinda Store Dataset in a proper format(.xls /.csv format)
+👉 Data Cleaning (removing null values) and Data Transformations in Excel
+👉 Data Processing
+👉 Data Modelling (Relationship between Multiple Columns)
+👉 Created calculated columns in the report as per requirement.
+👉 Learnt about different calculations.
+👉 Used functions Like calculate, sum, avg, sumx, month, divide, ifelse etc.
+👉 KPI generations.
+👉 Imported and tried different images and background.
+👉 Created navigation so one can easily navigate through report.
+👉 Created different charts and designed an Interactive report to analyze and visualize the data
+
+📌Chart Used 📊:
+👉Stacked Bar chart
+👉Pie chart
+👉Combo chart
+👉Stacked column chart
+👉Clustered bar chart
+
+📌Important link 🔗:
+🎯Check out my dashboard at: https://github.com/Viks2712/Excel/new/main/Vrinda%20Store%20Data%20Analysis
+
+I'm deeply grateful to Rishabh Mishra for providing such amazing dataset and challenge where we face actual real-life difficulties and thus enhance our analytical skills.
+
+Any feedback and suggestion will be appreciated.
+Thank you. 🙏
